@@ -1,1 +1,3 @@
 # Sprinter
+
+[Electrical](Electrical.md)
